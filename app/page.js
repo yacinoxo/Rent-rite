@@ -38,7 +38,7 @@ function Home() {
     <div>
       <div className='Hero !h-[100vh]'>
         <nav className='flex justify-between px-14 pt-6 mb-36'>
-            <img src="https://i.ibb.co/34yBRYf/logo-png.jpg" className='w-32' alt='logo' />
+            <img src="https://i.ibb.co/hLyGp6n/logo-png-removebg-preview.png" className='w-32' alt='logo' />
             <div className='link flex gap-10'>
               <a href='/' className='font-semibold text-xl hover:text-sky-500 hover:cursor-pointer'>Home</a>
               <a href='#about' className='font-semibold text-xl hover:text-sky-500 hover:cursor-pointer'>About</a>
